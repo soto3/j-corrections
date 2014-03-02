@@ -1,0 +1,28 @@
+{
+  "author": "SOTOMURA Natsuko <hogehoge5.mac.com> ( http://soto.hatenablog.com/ )",
+  "name": "j-corrections",
+  "description": "A node.js module for Japanese proofreading. It is written in JavaScript, and is MIT licensed.",
+  "version": "2.1.0",
+  "homepage": "https://github.com/soto3/j-corrections",
+  "bugs": {
+    "url" : "http://github.com/soto3/j-corrections/issues",
+    "email": "hogehoge5.mac.com"
+    },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/soto3/j-corrections"
+  },
+  "name": "j-corrections",
+  "version": "0.0.1",
+  "description": "A pakaged for Japanese proofreading",
+  "devDependencies": {
+    "underscore": "~1.6.0",
+    "http": "0.0.0",
+    "querystring": "~0.2.0",
+    "libxml-to-js": "~0.3.11"
+  },
+  "engines": {
+    "node": "0.8.14",
+    "npm": "1.1.65"
+  }
+}
